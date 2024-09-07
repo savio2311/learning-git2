@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 this is the code for the repo
+=======
+the code for the repo goes here 
+
+the changes
+
+>>>>>>> v1
